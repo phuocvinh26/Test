@@ -2,3 +2,6 @@
 ronaldo
 messi
 neymar
+degea
+beckham
+mbape
